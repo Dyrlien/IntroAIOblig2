@@ -2,13 +2,13 @@
 
 members: 
 
-->s333738 Christian Dyrli
+->s331377 - Jørgen Borander
 
 ->s321371 - Marcus Borger
 
-->s331354 - Olav Markus Bjørndal
+->s333738 - Christian Dyrli
 
-->s331377 - Jørgen Borander
+->s331354 - Olav Markus Bjørndal
 
 use case 1
 
