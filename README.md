@@ -12,6 +12,8 @@ members:
 
 use case 1
 
+Instructions: on the lowermost inputfield, change the value of "test" to the date you want to predict
+
 Seeing as we are looking for a specific number, we used regression and not classification.
 SupportVectorRegression is used as we feel it is best fit of the ones we tested.
 It predicts a little in to the future and flatens out when it does not have recent enough data
