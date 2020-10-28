@@ -12,7 +12,7 @@ members:
 
 use case 1
 
-we have had some issues loading the ipynb file, but several retries have worked.
+we have had some issues loading the ipynb file. however retrying or restarting the web browser a few times have worked
 
 Instructions: on the lowermost inputfield, change the value of "test" to the date you want to predict
 
